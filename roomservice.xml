@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="francoism90/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" remote="github" revision="4.9y" />
+  <project name="francoism90/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" remote="github" revision="devel" />
+  <project name="francoism90/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="devel" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_nfc" path="hardware/samsung/nfc" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-18.1" />
+</manifest>
